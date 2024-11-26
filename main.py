@@ -75,10 +75,10 @@ running_demand = True
 running_contrails = True
 plot_main_figures = True
 running_SA = False
-running_optimization = True
-running_singlefactor_SA = True
+running_optimization = False
+running_singlefactor_SA = False
 running_policy_SA = False
-plotting_SA_figures = True
+plotting_SA_figures = False
 plotting_SI_figures = False
 output_csv = True
 

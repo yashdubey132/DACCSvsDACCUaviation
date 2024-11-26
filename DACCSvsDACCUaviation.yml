@@ -3,6 +3,7 @@ channels:
   - anaconda
   - conda-forge
   - defaults
+  - https://software.repos.intel.com/python/conda/
 dependencies:
   - attrs=21.2.0=pyhd8ed1ab_0
   - blas=1.0=mkl
